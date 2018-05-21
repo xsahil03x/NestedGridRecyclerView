@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="section_one_items">
+        <item>Vishal</item>
+        <item>Sahil</item>
+        <item>Intkhab</item>
+        <item>Wahdat</item>
+        <item>Rajat</item>
+        <item>Tavish</item>
+        <item>Akshay</item>
+        <item>Rajat</item>
+        <item>Abhishek</item>
+        <item>Kaushal</item>
+        <item>Bhavya</item>
+    </string-array>
+
+   </resources>
